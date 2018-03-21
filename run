@@ -1,0 +1,1 @@
+iverilog src/*.v tb/*.v -s tb -o pcounter && ./pcounter
